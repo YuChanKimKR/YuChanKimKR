@@ -1,7 +1,8 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://github.com/YuChanKimKR/YuChanKimKR/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=YuChanKim&fontAlign=50&fontAlignY=40&fontSize=50&desc=Welcome%20to%20my%20GitHub!&descAlign=50&descAlignY=60" />
 </div>
+
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
