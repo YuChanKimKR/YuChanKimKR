@@ -53,7 +53,7 @@
 <hr style="width:50%; margin:auto; border:1px solid #ccc;">
 <div align="center">
   <a href="https://github.com/your-repo">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=YuChanKimKR&repo=CollaborationProject&theme=radical" />
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=YuChanKimKR&repo=Algorithm&theme=radical" />
   </a>
 </div>
 
