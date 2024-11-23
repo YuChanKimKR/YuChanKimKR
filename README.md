@@ -5,8 +5,8 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YuChanKimKR&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuChanKimKR&layout=compact&theme=radical" />
 </div>
 
 <!-- 기술 스택 섹션 -->
@@ -53,10 +53,10 @@
 <hr style="width:50%; margin:auto; border:1px solid #ccc;">
 <div align="center">
   <a href="https://github.com/your-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-repo&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YuChanKimKR&repo=your-repo&theme=radical" />
   </a>
   <a href="https://github.com/your-other-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-other-repo&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YuChanKimKR&repo=your-other-repo&theme=radical" />
   </a>
 </div>
 
@@ -74,7 +74,7 @@
 
 <!-- 깃허브 스타 유도 -->
 <div align="center">
-  <a href="https://github.com/your-username?tab=stars">
+  <a href="https://github.com/YuChanKimKR?tab=stars">
     <img src="https://img.shields.io/badge/Give%20a%20Star-FFD700?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </div>
