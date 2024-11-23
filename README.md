@@ -56,7 +56,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=YuChanKimKR&repo=your-repo&theme=radical" />
   </a>
   <a href="https://github.com/your-other-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YuChanKimKR&repo=your-other-repo&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YuChanKimKR&repo=https://github.com/YuChanKimKR/CollaborationProject.git&theme=radical" />
   </a>
 </div>
 
