@@ -54,5 +54,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F9E79F&height=150&section=footer" />
 </div>
-
-[![GitGarden](https://gitgarden.marshallku.dev/?user_name=YuChanKimKR)](https://github.com/marshallku/gitgarden)
