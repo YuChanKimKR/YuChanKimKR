@@ -1,6 +1,6 @@
-<!-- 타이틀 섹션 -->
+<!-- 상단 배경 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F9E79F&height=150&fontSize=0&section=top" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F9E79F&height=150&section=header" />
 </div>
 
 <!-- 기술 스택 -->
@@ -52,5 +52,5 @@
 
 <!-- 하단 배경 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F9E79F&height=150&fontSize=0&section=bottom" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F9E79F&height=150&section=footer" />
 </div>
