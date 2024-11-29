@@ -45,7 +45,7 @@
 <!-- 연락처 -->
 <div align="center">
   <h2 style="font-size: 1.5rem; font-family: Arial, sans-serif;">📫 Contact 📫</h2>
-  <a href="mailto:dbcks357@naver.com">
+  <a href="mailto:kimnodap357@gmail.com">
     <img src="https://img.shields.io/badge/dbcks357@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
